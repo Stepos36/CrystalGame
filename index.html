@@ -9,26 +9,46 @@
 </head>
 <body>
     <h1 class="h1 display-4 bg-dark text-white text-center" style="height:85px">Crystals collector!</h1>
-    <div class="container jumbotron bg-info text-white text-center" style="width:960px; height:100%">
-        <div class="row"> <p>You will be given a random number at the start of the game.
-                                There are four crystals below. By clicking on a crystal you
-                                will add a specific amount of points to your total score.
-                                <br/><br/>
-                                You win the game by matching your total score to random
-                                number. you lose the game if your total score goes above
-                                the random number.
-                                <br/><br/>
-                                The value of each crystal is hidden from you until you
-                                click on it.
-                                <br/><br/>
-                                Each time when the game starts, the game will change the
-                                values of each crystal</p>
+    <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-1 text-center">
+            <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">Wins</h5>
+                  <p class="card-text">---</p>
+                </div>
+            </div>
         </div>
-        <div class="row">
-        <img class="col-md-3 diamond" id="diamond1" src="assets/images/diamond1.png">
-        <img class="col-md-3 diamond" id="diamond2" src="assets/images/diamond2.png">
-        <img class="col-md-3 diamond" id="diamond3" src="assets/images/diamond3.png">
-        <img class="col-md-3 diamond" id="diamond4" src="assets/images/diamond4.png">
+        <div class="col-md-8 jumbotron bg-info text-white text-center">
+            <div class="row"> <p>You will be given a random number at the start of the game.
+                                    There are four crystals below. By clicking on a crystal you
+                                    will add a specific amount of points to your total score.
+                                    <br/><br/>
+                                    You win the game by matching your total score to random
+                                    number. you lose the game if your total score goes above
+                                    the random number.
+                                    <br/><br/>
+                                    The value of each crystal is hidden from you until you
+                                    click on it.
+                                    <br/><br/>
+                                    Each time when the game starts, the game will change the
+                                    values of each crystal</p>
+            </div>
+            <div class="row">
+            <img class="col-md-3 diamond" id="diamond1" src="assets/images/diamond1.png">
+            <img class="col-md-3 diamond" id="diamond2" src="assets/images/diamond2.png">
+            <img class="col-md-3 diamond" id="diamond3" src="assets/images/diamond3.png">
+            <img class="col-md-3 diamond" id="diamond4" src="assets/images/diamond4.png">
+            </div>
+        </div>
+        <div class="col-md-1 text-center">
+            <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">Losses</h5>
+                  <p class="card-text">---</p>
+                </div>
+            </div>
+            <div class="col-md-1"></div>
         </div>
     </div>
 </body>
