@@ -1,6 +1,6 @@
-#CrystalGame
+# CrystalGame
 
-####Have you ever played blackjack?
+#### Have you ever played blackjack?
 
 **Rules**
 You will be given a random number at the start of the game.
