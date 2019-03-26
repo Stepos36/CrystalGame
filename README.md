@@ -1,11 +1,12 @@
 # CrystalGame
 
 #### Have you ever played blackjack?
-![Diamond1](assets/images/diamond1.png)
-![Diamond2](assets/images/diamond2.png)
-![Diamond3](assets/images/diamond3.png)
-![Diamond4](assets/images/diamond4.png)
-
+<p align="center">
+    <img src="assets/images/diamond1.png">
+    <img src="assets/images/diamond2.png">
+    <img src="assets/images/diamond3.png">
+    <img src="assets/images/diamond4.png">
+</p>
 
 **Rules:**
 
