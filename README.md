@@ -1,6 +1,11 @@
 # CrystalGame
 
 #### Have you ever played blackjack?
+![Diamond1](assets/images/diamond1.png)
+![Diamond2](assets/images/diamond2.png)
+![Diamond3](assets/images/diamond3.png)
+![Diamond4](assets/images/diamond4.png)
+
 
 **Rules:**
 
@@ -17,3 +22,6 @@ click on it.
 
 Each time when the game starts, the game will change the
 values of each crystal
+
+_Screenshot:_
+![DiamondGame](assets/images/Screenshot.png)
